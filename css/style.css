@@ -255,6 +255,12 @@ body {
   margin: 0;
 }
 
+.embedWrapper {
+  width: 100%;
+}
+
 .embed {
   width: 100%;
+  display: block;
+  height: auto;
 }
