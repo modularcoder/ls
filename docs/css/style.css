@@ -257,6 +257,8 @@ body {
 
 .embedWrapper {
   width: 100%;
+  aspect-ratio: 1400 / 10082;
+  background: gray;
 }
 
 .embed {
